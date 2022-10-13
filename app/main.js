@@ -14,12 +14,3 @@ function draw() {
   incluiPontos();
   marcaPonto();
 }
-
-
-
-
-
-
-
-
-
