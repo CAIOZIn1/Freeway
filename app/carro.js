@@ -29,8 +29,3 @@ function voltaPosicaoInicialDoCarro(){
 function passouTodaATela(xCarro){
   return xCarro < - 50;
 }
-
-
-
-
-
